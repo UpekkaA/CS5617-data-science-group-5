@@ -1,98 +1,98 @@
-Province,Sector,Category,Sub_Category,Gender,2007,2008,2009,2010,2011,2012
-Western,Agriculture,Tea,,Male,11.62162162,9.443099274,21.46017699,-2.18579235,21.97392924,10.99236641
-Western,Agriculture,Tea,,Female,4.934210526,30.72100313,16.54676259,1.440329218,20.0811359,7.263513514
-Western,Agriculture,Rubber,,Male,6.970509383,14.78696742,5.240174672,12.2406639,19.96303142,15.10015408
-Western,Agriculture,Rubber,,Female,2.43902439,40.81632653,1.690821256,17.33966746,23.27935223,-0.65681445
-Western,Agriculture,Coconut,,Male,6.970509383,56.39097744,7.852564103,3.566121842,18.79483501,13.647343
-Western,Agriculture,Paddy,,Male,15.93533487,29.08366534,5.401234568,4.831625183,3.631284916,14.69002695
-Western,Agriculture,Paddy,,Female,2.949852507,65.9025788,3.972366149,7.973421927,14.30769231,5.114401077
-Western,Construction,Carpentry,Master Carpenter ,Male,16.6163142,16.19170984,12.04013378,8.656716418,8.058608059,12.45762712
-Western,Construction,Carpentry,Skilled and Unskilled Helper,Male,17.23356009,10.63829787,10.48951049,6.803797468,9.62962963,12.7027027
-Western,Construction,Masonry,Master Mason ,Male,17.0015456,15.71994716,13.69863014,10.14056225,5.834092981,11.71403962
-Western,Construction,Masonry,Skilled and Unskilled Helper ,Male,15.43778802,16.56686627,9.931506849,7.476635514,8.260869565,12.98527443
-Central,Agriculture,Tea,,Male,11.11111111,15.55555556,16.58653846,9.278350515,8.490566038,12.86956522
-Central,Agriculture,Tea,,Female,10.34482759,70.98214286,20.36553525,11.4967462,4.085603113,11.77570093
-Central,Agriculture,Rubber,,Male,8.225108225,25.2,6.709265176,36.52694611,5.043859649,16.91022965
-Central,Agriculture,Rubber,,Female,14.15929204,22.09302326,11.74603175,29.54545455,4.385964912,17.64705882
-Central,Agriculture,Coconut,,Male,8.641975309,21.13636364,-1.500938086,30.66666667,6.413994169,18.90410959
-Central,Agriculture,Paddy,,Male,17.49271137,29.77667494,11.66347992,1.54109589,5.059021922,11.07544141
-Central,Agriculture,Paddy,,Female,15.86538462,127.3858921,-1.642335766,2.41187384,6.702898551,14.77079796
-Central,Construction,Carpentry,Master Carpenter ,Male,11.83333333,16.84053651,11.2244898,6.30733945,14.5631068,11.39359699
-Central,Construction,Carpentry,Skilled and Unskilled Helper,Male,15.10989011,24.10501193,10.96153846,5.54592721,11.8226601,11.45374449
-Central,Construction,Masonry,Master Mason ,Male,14.18803419,16.76646707,10.25641026,6.162790698,15.77217963,10.97445601
-Central,Construction,Masonry,Skilled and Unskilled Helper ,Male,15.42699725,25.53699284,10.45627376,4.991394148,10.98360656,12.25997046
-North Central,Agriculture,Coconut,,Male,21.13402062,18.5106383,4.667863555,24.18524871,11.74033149,10.38318912
-North Central,Agriculture,Paddy,,Male,15.98984772,26.03938731,11.63194444,11.81959565,12.93463143,13.66995074
-North Central,Agriculture,Paddy,,Female,16.20795107,48.68421053,10.08849558,14.14790997,10.14084507,13.29923274
-North Central,Construction,Carpentry,Master Carpenter ,Male,15.06849315,21.72619048,19.43765281,9.723643808,6.809701493,8.908296943
-North Central,Construction,Carpentry,Skilled and Unskilled Helper,Male,16.93121693,26.01809955,13.46499102,9.651898734,11.97691198,13.53092784
-North Central,Construction,Masonry,Master Mason ,Male,13.88429752,18.43251089,17.40196078,8.872651357,9.012464046,8.883025506
-North Central,Construction,Masonry,Skilled and Unskilled Helper ,Male,16.32653061,26.31578947,14.23611111,13.67781155,7.620320856,13.54037267
-North Western,Agriculture,Rubber,,Male,,,,16.6344294,4.47761194,8.253968254
-North Western,Agriculture,Rubber,,Female,,,,15.99190283,4.712041885,3.166666667
-North Western,Agriculture,Coconut,,Male,20.80200501,18.87966805,14.65968586,8.98021309,12.70949721,12.6394052
-North Western,Agriculture,Paddy,,Male,16.71309192,25.29832936,7.619047619,9.734513274,6.129032258,11.39817629
-North Western,Agriculture,Paddy,,Female,19.24686192,67.71929825,18.61924686,8.641975309,2.597402597,6.170886076
-North Western,Construction,Carpentry,Master Carpenter ,Male,15.06849315,17.26190476,15.35532995,9.790979098,6.513026052,11.5710254
-North Western,Construction,Carpentry,Skilled and Unskilled Helper,Male,14.9870801,26.06741573,14.08199643,7.34375,5.094614265,14.54293629
-North Western,Construction,Masonry,Master Mason ,Male,15.1675485,22.66462481,13.10861423,7.505518764,7.186858316,11.01532567
-North Western,Construction,Masonry,Skilled and Unskilled Helper ,Male,15.84415584,27.13004484,13.58024691,6.832298137,4.651162791,11.25
-Sabaragamuwa,Agriculture,Tea,,Male,19.35483871,18.91891892,12.72727273,12.90322581,16.42857143,8.742331288
-Sabaragamuwa,Agriculture,Tea,,Female,19.13043478,53.64963504,9.976247031,15.76673866,19.21641791,10.3286385
-Sabaragamuwa,Agriculture,Rubber,,Male,19.55835962,40.89709763,6.554307116,6.854130053,12.5,11.25730994
-Sabaragamuwa,Agriculture,Rubber,,Female,20.43478261,75.09025271,8.659793814,10.24667932,11.87607573,12.76923077
-Sabaragamuwa,Agriculture,Coconut,,Male,19.17808219,36.09195402,9.797297297,7.692307692,11.14285714,11.31105398
-Sabaragamuwa,Agriculture,Paddy,,Male,22.6006192,18.68686869,10.85106383,14.39539347,6.879194631,13.81475667
-Sabaragamuwa,Agriculture,Paddy,,Female,18.7755102,61.8556701,13.5881104,6.168224299,8.098591549,14.49511401
-Sabaragamuwa,Construction,Carpentry,Master Carpenter ,Male,12.64755481,17.06586826,6.777493606,9.580838323,16.50273224,15.29080675
-Sabaragamuwa,Construction,Carpentry,Skilled and Unskilled Helper,Male,12.01117318,20.94763092,12.98969072,6.386861314,11.83533448,12.42331288
-Sabaragamuwa,Construction,Masonry,Master Mason ,Male,11.75468484,17.22560976,5.591677503,9.482758621,15.86051744,14.0776699
-Sabaragamuwa,Construction,Masonry,Skilled and Unskilled Helper ,Male,11.48459384,21.6080402,12.80991736,5.860805861,13.66782007,13.39421613
-Uva,Agriculture,Tea,,Male,11.30434783,13.02083333,10.82949309,9.147609148,17.14285714,15.77235772
-Uva,Agriculture,Tea,,Female,10.28806584,48.88059701,11.77944862,12.33183857,19.76047904,15.16666667
-Uva,Agriculture,Rubber,,Male,,,6.349206349,6.902985075,5.933682373,16.96869852
-Uva,Agriculture,Rubber,,Female,,,3.968253968,8.015267176,6.007067138,19
-Uva,Agriculture,Coconut,,Male,,,5.481727575,10.23622047,-1.428571429,14.20289855
-Uva,Agriculture,Paddy,,Male,7.02247191,17.58530184,8.705357143,7.392197125,12.81070746,12.71186441
-Uva,Agriculture,Paddy,,Female,6.037735849,44.12811388,15.30864198,8.35117773,15.41501976,6.335616438
-Uva,Construction,Carpentry,Master Carpenter ,Male,11.55115512,12.72189349,9.580052493,7.185628743,17.98882682,11.26893939
-Uva,Construction,Carpentry,Skilled and Unskilled Helper,Male,7.859078591,12.06030151,10.31390135,5.284552846,14.28571429,13.68243243
-Uva,Construction,Masonry,Master Mason ,Male,12.43781095,12.97935103,11.09660574,4.112808461,18.84875847,12.6305793
-Uva,Construction,Masonry,Skilled and Unskilled Helper ,Male,7.859078591,12.06030151,10.53811659,5.273833671,16.57032755,12.0661157
-Southern,Agriculture,Tea,,Male,12.53644315,21.24352332,4.914529915,14.66395112,5.68383659,13.78151261
-Southern,Agriculture,Tea,,Female,5.777777778,84.45378151,1.822323462,23.48993289,5.434782609,20.79037801
-Southern,Agriculture,Rubber,,Male,11.68831169,46.51162791,0.595238095,11.24260355,-0.886524823,13.41681574
-Southern,Agriculture,Rubber,,Female,-1.612903226,97.95081967,1.863354037,3.658536585,3.921568627,22.64150943
-Southern,Agriculture,Coconut,,Male,30.38277512,18.53211009,9.287925697,8.498583569,1.958224543,13.06017926
-Southern,Agriculture,Paddy,,Male,30.09950249,19.12045889,8.34670947,7.703703704,6.327372765,10.86675291
-Southern,Agriculture,Paddy,,Female,30.90379009,38.53006682,11.25401929,-5.346820809,11.45038168,3.01369863
-Southern,Construction,Carpentry,Master Carpenter ,Male,15.67398119,15.04065041,10.71849234,5.425531915,12.41170535,11.22082585
-Southern,Construction,Carpentry,Skilled and Unskilled Helper,Male,14.9882904,20.16293279,9.322033898,5.11627907,10.76696165,14.38082557
-Southern,Construction,Masonry,Master Mason ,Male,17.04545455,13.03744799,11.41104294,6.057268722,11.73416407,11.89591078
-Southern,Construction,Masonry,Skilled and Unskilled Helper ,Male,14.84184915,20.76271186,16.31578947,2.865761689,6.451612903,15.97796143
-Northern,Agriculture,Coconut,,Male,4.489795918,7.03125,7.116788321,5.621805792,13.38709677,18.49217639
-Northern,Agriculture,Paddy,,Male,15,12.86231884,18.45906902,-5.691056911,12.21264368,12.54801536
-Northern,Agriculture,Paddy,,Female,8.454810496,29.03225806,37.29166667,-17.90591806,28.83548983,10.6169297
-Northern,Construction,Carpentry,Master Carpenter ,Male,8.253094911,9.021601017,3.496503497,1.463963964,14.20643729,16.90962099
-Northern,Construction,Carpentry,Skilled and Unskilled Helper,Male,7.85440613,7.282415631,9.105960265,2.276176024,16.17210682,19.79565773
-Northern,Construction,Masonry,Master Mason ,Male,8.379120879,9.505703422,4.513888889,-2.879291251,16.19156214,16.29048086
-Northern,Construction,Masonry,Skilled and Unskilled Helper ,Male,6.226415094,7.460035524,9.917355372,1.052631579,15.77380952,20.95115681
-Eastern,Agriculture,Coconut,,Male,12.70983213,17.44680851,-3.079710145,25.04672897,10.16442451,10.99050204
-Eastern,Agriculture,Paddy,,Male,8.755760369,30.72033898,1.620745543,11.80223285,10.12838802,6.088082902
-Eastern,Agriculture,Paddy,,Female,12.5,33.33333333,7.5,25.96899225,4.769230769,13.36270191
-Eastern,Construction,Carpentry,Master Carpenter ,Male,23.14049587,14.31767338,4.892367906,6.71641791,11.8006993,2.111024238
-Eastern,Construction,Carpentry,Skilled and Unskilled Helper,Male,17.19367589,12.47892074,4.347826087,8.477011494,11.12582781,5.244338498
-Eastern,Construction,Masonry,Master Mason ,Male,21.8328841,14.82300885,3.371868979,5.778191985,7.577092511,3.849303849
-Eastern,Construction,Masonry,Skilled and Unskilled Helper ,Male,17.09741551,13.24278438,3.148425787,8.430232558,12.46648794,2.74135876
-All Island,Agriculture,Tea,,Male,13.51351351,16.4021164,12.72727273,9.879032258,13.21100917,11.99351702
-All Island,Agriculture,Tea,,Female,11.53846154,16.85823755,16.72131148,11.23595506,10.60606061,16.89497717
-All Island,Agriculture,Rubber,,Male,14.62686567,30.20833333,6.4,10.52631579,11.9047619,12.61398176
-All Island,Agriculture,Rubber,,Female,12.04819277,35.12544803,10.34482759,13.94230769,3.375527426,19.3877551
-All Island,Agriculture,Coconut,,Male,16.38954869,20.40816327,10.50847458,7.36196319,11.85714286,13.28224777
-All Island,Agriculture,Paddy,,Male,15.85677749,24.06181015,9.430604982,6.991869919,6.990881459,11.78977273
-All Island,Agriculture,Paddy,,Female,12.96928328,19.33534743,9.367088608,5.092592593,16.74008811,13.01886792
-All Island,Construction,Carpentry,Master Carpenter ,Male,15.63981043,15.30054645,10.42654028,7.296137339,11.5,11.92825112
-All Island,Construction,Carpentry,Skilled and Unskilled Helper,Male,15.42168675,16.49269311,10.5734767,6.320907618,11.12804878,13.03155007
-All Island,Construction,Masonry,Master Mason ,Male,15.76433121,15.130674,11.70848268,6.310160428,9.959758551,11.25343092
-All Island,Construction,Masonry,Skilled and Unskilled Helper ,Male,14.76997579,18.35443038,11.76470588,6.379585327,9.295352324,12.89437586
-Inflation rate,,,,,15.8,22.6,3.5,6.2,6.7,7.6
+Province,Sector,Category,Gender,2007,2008,2009,2010,2011,2012
+Western,Agriculture,Tea,Male,11.62,9.44,21.46,-2.19,21.97,10.99
+Western,Agriculture,Tea,Female,4.93,30.72,16.55,1.44,20.08,7.26
+Western,Agriculture,Rubber,Male,6.97,14.79,5.24,12.24,19.96,15.10
+Western,Agriculture,Rubber,Female,2.44,40.82,1.69,17.34,23.28,-0.66
+Western,Agriculture,Coconut,Male,6.97,56.39,7.85,3.57,18.79,13.65
+Western,Agriculture,Paddy,Male,15.94,29.08,5.40,4.83,3.63,14.69
+Western,Agriculture,Paddy,Female,2.95,65.90,3.97,7.97,14.31,5.11
+Western,Construction,Carpentry-Master Carpenter ,Male,16.62,16.19,12.04,8.66,8.06,12.46
+Western,Construction,Carpentry-Skilled and Unskilled Helper,Male,17.23,10.64,10.49,6.80,9.63,12.70
+Western,Construction,Masonry-Master Mason ,Male,17.00,15.72,13.70,10.14,5.83,11.71
+Western,Construction,Masonry-Skilled and Unskilled Helper ,Male,15.44,16.57,9.93,7.48,8.26,12.99
+Central,Agriculture,Tea,Male,11.11,15.56,16.59,9.28,8.49,12.87
+Central,Agriculture,Tea,Female,10.34,70.98,20.37,11.50,4.09,11.78
+Central,Agriculture,Rubber,Male,8.23,25.20,6.71,36.53,5.04,16.91
+Central,Agriculture,Rubber,Female,14.16,22.09,11.75,29.55,4.39,17.65
+Central,Agriculture,Coconut,Male,8.64,21.14,-1.50,30.67,6.41,18.90
+Central,Agriculture,Paddy,Male,17.49,29.78,11.66,1.54,5.06,11.08
+Central,Agriculture,Paddy,Female,15.87,127.39,-1.64,2.41,6.70,14.77
+Central,Construction,Carpentry-Master Carpenter ,Male,11.83,16.84,11.22,6.31,14.56,11.39
+Central,Construction,Carpentry-Skilled and Unskilled Helper,Male,15.11,24.11,10.96,5.55,11.82,11.45
+Central,Construction,Masonry-Master Mason ,Male,14.19,16.77,10.26,6.16,15.77,10.97
+Central,Construction,Masonry-Skilled and Unskilled Helper ,Male,15.43,25.54,10.46,4.99,10.98,12.26
+North Central,Agriculture,Coconut,Male,21.13,18.51,4.67,24.19,11.74,10.38
+North Central,Agriculture,Paddy,Male,15.99,26.04,11.63,11.82,12.93,13.67
+North Central,Agriculture,Paddy,Female,16.21,48.68,10.09,14.15,10.14,13.30
+North Central,Construction,Carpentry-Master Carpenter ,Male,15.07,21.73,19.44,9.72,6.81,8.91
+North Central,Construction,Carpentry-Skilled and Unskilled Helper,Male,16.93,26.02,13.46,9.65,11.98,13.53
+North Central,Construction,Masonry-Master Mason ,Male,13.88,18.43,17.40,8.87,9.01,8.88
+North Central,Construction,Masonry-Skilled and Unskilled Helper ,Male,16.33,26.32,14.24,13.68,7.62,13.54
+North Western,Agriculture,Rubber,Male,,,,16.63,4.48,8.25
+North Western,Agriculture,Rubber,Female,,,,15.99,4.71,3.17
+North Western,Agriculture,Coconut,Male,20.80,18.88,14.66,8.98,12.71,12.64
+North Western,Agriculture,Paddy,Male,16.71,25.30,7.62,9.73,6.13,11.40
+North Western,Agriculture,Paddy,Female,19.25,67.72,18.62,8.64,2.60,6.17
+North Western,Construction,Carpentry-Master Carpenter ,Male,15.07,17.26,15.36,9.79,6.51,11.57
+North Western,Construction,Carpentry-Skilled and Unskilled Helper,Male,14.99,26.07,14.08,7.34,5.09,14.54
+North Western,Construction,Masonry-Master Mason ,Male,15.17,22.66,13.11,7.51,7.19,11.02
+North Western,Construction,Masonry-Skilled and Unskilled Helper ,Male,15.84,27.13,13.58,6.83,4.65,11.25
+Sabaragamuwa,Agriculture,Tea,Male,19.35,18.92,12.73,12.90,16.43,8.74
+Sabaragamuwa,Agriculture,Tea,Female,19.13,53.65,9.98,15.77,19.22,10.33
+Sabaragamuwa,Agriculture,Rubber,Male,19.56,40.90,6.55,6.85,12.50,11.26
+Sabaragamuwa,Agriculture,Rubber,Female,20.43,75.09,8.66,10.25,11.88,12.77
+Sabaragamuwa,Agriculture,Coconut,Male,19.18,36.09,9.80,7.69,11.14,11.31
+Sabaragamuwa,Agriculture,Paddy,Male,22.60,18.69,10.85,14.40,6.88,13.81
+Sabaragamuwa,Agriculture,Paddy,Female,18.78,61.86,13.59,6.17,8.10,14.50
+Sabaragamuwa,Construction,Carpentry-Master Carpenter ,Male,12.65,17.07,6.78,9.58,16.50,15.29
+Sabaragamuwa,Construction,Carpentry-Skilled and Unskilled Helper,Male,12.01,20.95,12.99,6.39,11.84,12.42
+Sabaragamuwa,Construction,Masonry-Master Mason ,Male,11.75,17.23,5.59,9.48,15.86,14.08
+Sabaragamuwa,Construction,Masonry-Skilled and Unskilled Helper ,Male,11.48,21.61,12.81,5.86,13.67,13.39
+Uva,Agriculture,Tea,Male,11.30,13.02,10.83,9.15,17.14,15.77
+Uva,Agriculture,Tea,Female,10.29,48.88,11.78,12.33,19.76,15.17
+Uva,Agriculture,Rubber,Male,,,6.35,6.90,5.93,16.97
+Uva,Agriculture,Rubber,Female,,,3.97,8.02,6.01,19.00
+Uva,Agriculture,Coconut,Male,,,5.48,10.24,-1.43,14.20
+Uva,Agriculture,Paddy,Male,7.02,17.59,8.71,7.39,12.81,12.71
+Uva,Agriculture,Paddy,Female,6.04,44.13,15.31,8.35,15.42,6.34
+Uva,Construction,Carpentry-Master Carpenter ,Male,11.55,12.72,9.58,7.19,17.99,11.27
+Uva,Construction,Carpentry-Skilled and Unskilled Helper,Male,7.86,12.06,10.31,5.28,14.29,13.68
+Uva,Construction,Masonry-Master Mason ,Male,12.44,12.98,11.10,4.11,18.85,12.63
+Uva,Construction,Masonry-Skilled and Unskilled Helper ,Male,7.86,12.06,10.54,5.27,16.57,12.07
+Southern,Agriculture,Tea,Male,12.54,21.24,4.91,14.66,5.68,13.78
+Southern,Agriculture,Tea,Female,5.78,84.45,1.82,23.49,5.43,20.79
+Southern,Agriculture,Rubber,Male,11.69,46.51,0.60,11.24,-0.89,13.42
+Southern,Agriculture,Rubber,Female,-1.61,97.95,1.86,3.66,3.92,22.64
+Southern,Agriculture,Coconut,Male,30.38,18.53,9.29,8.50,1.96,13.06
+Southern,Agriculture,Paddy,Male,30.10,19.12,8.35,7.70,6.33,10.87
+Southern,Agriculture,Paddy,Female,30.90,38.53,11.25,-5.35,11.45,3.01
+Southern,Construction,Carpentry-Master Carpenter ,Male,15.67,15.04,10.72,5.43,12.41,11.22
+Southern,Construction,Carpentry-Skilled and Unskilled Helper,Male,14.99,20.16,9.32,5.12,10.77,14.38
+Southern,Construction,Masonry-Master Mason ,Male,17.05,13.04,11.41,6.06,11.73,11.90
+Southern,Construction,Masonry-Skilled and Unskilled Helper ,Male,14.84,20.76,16.32,2.87,6.45,15.98
+Northern,Agriculture,Coconut,Male,4.49,7.03,7.12,5.62,13.39,18.49
+Northern,Agriculture,Paddy,Male,15.00,12.86,18.46,-5.69,12.21,12.55
+Northern,Agriculture,Paddy,Female,8.45,29.03,37.29,-17.91,28.84,10.62
+Northern,Construction,Carpentry-Master Carpenter ,Male,8.25,9.02,3.50,1.46,14.21,16.91
+Northern,Construction,Carpentry-Skilled and Unskilled Helper,Male,7.85,7.28,9.11,2.28,16.17,19.80
+Northern,Construction,Masonry-Master Mason ,Male,8.38,9.51,4.51,-2.88,16.19,16.29
+Northern,Construction,Masonry-Skilled and Unskilled Helper ,Male,6.23,7.46,9.92,1.05,15.77,20.95
+Eastern,Agriculture,Coconut,Male,12.71,17.45,-3.08,25.05,10.16,10.99
+Eastern,Agriculture,Paddy,Male,8.76,30.72,1.62,11.80,10.13,6.09
+Eastern,Agriculture,Paddy,Female,12.50,33.33,7.50,25.97,4.77,13.36
+Eastern,Construction,Carpentry-Master Carpenter ,Male,23.14,14.32,4.89,6.72,11.80,2.11
+Eastern,Construction,Carpentry-Skilled and Unskilled Helper,Male,17.19,12.48,4.35,8.48,11.13,5.24
+Eastern,Construction,Masonry-Master Mason ,Male,21.83,14.82,3.37,5.78,7.58,3.85
+Eastern,Construction,Masonry-Skilled and Unskilled Helper ,Male,17.10,13.24,3.15,8.43,12.47,2.74
+All Island,Agriculture,Tea,Male,13.51,16.40,12.73,9.88,13.21,11.99
+All Island,Agriculture,Tea,Female,11.54,16.86,16.72,11.24,10.61,16.89
+All Island,Agriculture,Rubber,Male,14.63,30.21,6.40,10.53,11.90,12.61
+All Island,Agriculture,Rubber,Female,12.05,35.13,10.34,13.94,3.38,19.39
+All Island,Agriculture,Coconut,Male,16.39,20.41,10.51,7.36,11.86,13.28
+All Island,Agriculture,Paddy,Male,15.86,24.06,9.43,6.99,6.99,11.79
+All Island,Agriculture,Paddy,Female,12.97,19.34,9.37,5.09,16.74,13.02
+All Island,Construction,Carpentry-Master Carpenter ,Male,15.64,15.30,10.43,7.30,11.50,11.93
+All Island,Construction,Carpentry-Skilled and Unskilled Helper,Male,15.42,16.49,10.57,6.32,11.13,13.03
+All Island,Construction,Masonry-Master Mason ,Male,15.76,15.13,11.71,6.31,9.96,11.25
+All Island,Construction,Masonry-Skilled and Unskilled Helper ,Male,14.77,18.35,11.76,6.38,9.30,12.89
+All Island,Inflation Rate,,,15.8,22.6,3.5,6.2,6.7,7.6
